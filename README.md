@@ -4,10 +4,3 @@ Basic exercises on Machine Learning with Python , Refrence Book : Python for Pro
 ![alt text](https://github.com/sarincr/Machine-Learning-Python-Bootcamp/blob/master/IBM%20Badges.png)
 
 
-
-
-
-![alt text](https://github.com/sarincr/Machine-Learning-Python-Bootcamp/blob/master/Certificate.jpg)
-
-
-![alt text](https://github.com/sarincr/Machine-Learning-Python-Bootcamp/blob/master/certificate.png)
